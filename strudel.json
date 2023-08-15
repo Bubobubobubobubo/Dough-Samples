@@ -1,7 +1,21 @@
 {
     "_base":"https://raw.githubusercontent.com/Bubobubobubobubo/Topos-Samples/main/",
     "bass":["bass/bass1.wav", "bass/bass2.wav", "bass/bass3.wav", "bass/BASS8.wav", "bass/bass9.wav", "bass/bass11.wav",
-            "bass/bass12.wav", "bass/bass13.wav", "bass/bass14.wav"]
+            "bass/bass12.wav", "bass/bass13.wav", "bass/bass14.wav"],
+    "cowbell": ["cowbell/cowbell1.wav", "cowbell/cowbel2.wav", "cowbell/cowbell3.wav"],
+    "fx": ["fx/fx1.wav", "fx/fx2.wav", "fx/fx3.wav"],
+    "hat": ["hat/hat.wav", "hat/hat2.wav", "hat/hat3.wav", "hat/hat4.wav", "hat/hat5.wav", "hat/hat6.wav", "hat/hat7.wav", "hat/hat8.wav", "hat/hat9.wav", "hat/hat10.wav", "hat/hat11.wav", "hat/hat12.wav"],
+    "kick": ["kick/kick1.wav", "kick/kick2-1.wav", "kick/kick2.wav", "kick/kick3-1.wav", "kick/kick3.wav", "kick/kick4.wav", "kick/kick5.wav", "kick/kick6.wav", "kick/kick7.wav", "kick/kick8.wav", "kick/KICK9.wav"],
+    "pad": ["pad/PAD1.wav", "pad/PAD2.wav", "pad/PAD3.wav", "pad/pad4.wav", "pad/PAD5.wav"],
+    "perc": ["perc/perc1.wav", "perc/perc2.wav", "perc/perc3.wav", "perc/perc4.wav", "perc/perc5.wav",
+              "perc/perc6.wav", "perc/perc7.wav", "perc/perc8.wav", "perc/perc9.wav"],
+    "snare": ["snare/snare1.wav", "snare/SNARE2.wav", "snare/SNARE3.wav", "snare/SNARE4.wav", "snare/SNARE5.wav", "snare/SNARE6.wav", "snare/SNARE7.wav", "snare/SNARE8.wav", "snare/SNARE9.wav", "snare/SNARE10.wav ", "snare/snare11.wav ", "snare/snare12.wav ", "snare/snare13.wav "],
+    "stab": ["stab/stab.wav"],
+    "synth": ["synth/synth1.wav", "synth/synth2.wav", "synth/synth3.wav", "synth/synth4.wav", "synth/synth5.wav", "synth/synth6.wav", "synth/synth7.wav", "synth/synth8.wav", "synth/synth9.wav", "synth/synth10.wav", "synth/synth11.wav", "synth/synth12.wav", "synth/synth13.wav", "synth/synth14.wav", "synth/synth15.wav"],
+    "tom": ["tom/tom.wav", "tom/tom1.wav"],
+    "voc": ["voc/voc.wav", "voc/voc2.wav", "voc/voc3.wav", "voc/voc4.wav", "voc/voc5.wav", "voc/voc6.wav", "voc/voc7.wav", "voc/voc8.wav", "voc/voc9.wav", "voc/voc10.wav"],
+    "zap": ["zap/zap.wav", "zap/zap2.wav"],
+    "crash": ["crash.wav", "crash2.wav"],
+    "shaker": ["shaker.wav"]
 }
-
 
