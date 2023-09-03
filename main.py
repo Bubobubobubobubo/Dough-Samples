@@ -3,7 +3,7 @@ import json
 
 def generate_json():
     data = {
-        "_base": "https://raw.githubusercontent.com/Bubobubobubobubo/Topos-Samples/main/"
+        "_base": "https://raw.githubusercontent.com/Bubobubobubobubo/Dough-Samples/main/"
     }
     
     # Iterate through each directory in the current folder
@@ -16,7 +16,7 @@ def generate_json():
             if file_name.lower().endswith('.wav'):
                 data[dir_name].append(f"{dir_name}/{file_name}")
     with open('strudel.json', 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+        json.dump(data, json_file, separators=(',', ':'))
 
 if __name__ == "__main__":
     generate_json()
